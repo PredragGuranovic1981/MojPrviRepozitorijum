@@ -1,1 +1,2 @@
-To do list
+To do list:
+1. Nauciti nnesto o git-u.
